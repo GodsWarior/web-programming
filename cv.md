@@ -2,7 +2,8 @@
 
 ## Junior .NET Developer ☺
 
-![Photo](https://avatars.mds.yandex.net/i?id=3f7d14d2d6cd87baf780d01c2a232187_l-4615485-images-thumbs&n=13)
+![Photo](https://avatars.mds.yandex.net/i?id=3f7d14d2d6cd87baf780d01c2a232187_l-4615485-images-thumbs&n=13){ width=150 }
+
 
 ---
 
