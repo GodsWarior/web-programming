@@ -1,21 +1,21 @@
-# Казаков Данил - Резюме
+# Kazakov Danil - Resume
 
-## Младший разработчик на .Net ☺
+## Junior .NET Developer ☺
 
-![Фото](C:/Users/p8866/OneDrive/Desktop/wlopper/anime_monogatar.jpg)
-
----
-
-## Навигация
-
-- [О себе](#о-себе)
-- [Ключевые навыки](#ключевые-навыки)
-- [Навыки и опыт](#навыки-и-опыт)
-- [Дополнительно](#дополнительно)
+![Photo](C:/Users/p8866/OneDrive/Desktop/wlopper/anime_monogatar.jpg)
 
 ---
 
-## Контакты:
+## Navigation
+
+- [About Me](#about-me)
+- [Key Skills](#key-skills)
+- [Skills and Experience](#skills-and-experience)
+- [Additional Information](#additional-information)
+
+---
+
+## Contacts:
 
 - 📞 [+375293767995](tel:+375293767995)
 - 📧 [p8866857@gmail.com](mailto:p8866857@gmail.com)
@@ -25,47 +25,46 @@
 
 ---
 
-## О себе:
+## About Me:
 
-Студент 2 курса Белорусско-Российского университета по специальности «Программная инженерия». Ищу стажировку backend-разработчика (.NET, Django), чтобы применить знания на практике и развить профессиональные навыки. Умею работать в команде, быстро осваиваю новые технологии и стараюсь писать чистый, поддерживаемый код.
-
----
-
-## Ключевые навыки:
-
-- **Языки:** `C#`, `C++`, `Python`
-- **Технологии:** `.NET`, `Django`
-- **Инструменты:** `Git`, `GitHub`, `Linux (WSL)`
-- **Принципы разработки:** `SOLID`, `DRY`, `KISS`, `YAGNI`
-- **Тестирование:** `Unit-тестирование (NUnit)`
+I am a 2nd-year student at the Belarusian-Russian University majoring in "Software Engineering." I am looking for a backend development internship (.NET, Django) to apply my knowledge in practice and develop professional skills. I am a team player, quickly learn new technologies, and strive to write clean, maintainable code.
 
 ---
 
-## Навыки и опыт:
+## Key Skills:
 
-1. Дипломы 2 и 3 степени на республиканских олимпиадах по математике.
-2. Разработка веб-приложений на C# (.NET backend).
-3. Опыт работы с Python: машинное обучение, разработка ПО для обнаружения дефектов ткани с OpenCV и YOLO.
-
----
-
-## Дополнительно:
-
-Изучаю английский язык (уровень `B2`) и участвую в open-source проектах.
+- **Languages:** `C#`, `Python`
+- **Technologies:** `.NET`, `Django`
+- **Tools:** `Git`, `GitHub`, `Linux (WSL)`
+- **Development Principles:** `SOLID`, `DRY`, `KISS`, `YAGNI`
+- **Testing:** `Unit Testing (NUnit)`
 
 ---
 
-## Проекты:
+## Skills and Experience:
 
-### Проект 1
-
-> Разработка нейронной сети для анализа дефектов на полотне.
-
-### Проект 2
-
-> Разработка приложения для вырезания контента с фотографий.
+1. 2nd and 3rd place diplomas in national mathematics competitions.
+2. Development of web applications in C# (.NET backend).
+3. Experience with Python: machine learning, software development for fabric defect detection using OpenCV and YOLO.
 
 ---
 
-## © 2025 Казаков Данил
+## Additional Information:
 
+I am studying English (level `B2`) and actively participating in open-source projects.
+
+---
+
+## Projects:
+
+### Project 1
+
+> Development of a neural network for fabric defect analysis.
+
+### Project 2
+
+> Development of an application for cutting out content from photos.
+
+---
+
+## © 2025 Kazakov Danil
